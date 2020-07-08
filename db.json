@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Caner Türkmen",
+      "phone": "+905437838699",
+      "email": "caner98turkmen@gmail.com",
+      "city": "Antalya",
+      "address": "Meltem Mahallesi. 2F 2/4 Muratpaşa",
+      "id": 1594216469475
+    },
+    {
+      "name": "John Doe",
+      "phone": "+4930901820",
+      "email": "john@doe.com",
+      "city": "Berlin",
+      "address": "Berlin Strasse 36/1",
+      "id": 1594216540497
+    },
+    {
+      "name": "Best Dude Forever",
+      "phone": "+905051475245",
+      "email": "namesurname07@gmail.com",
+      "city": "Muğla",
+      "address": "Fethiye 48/3",
+      "id": 1594216602116
+    }
+  ]
+}

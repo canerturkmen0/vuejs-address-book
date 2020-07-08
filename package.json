@@ -1,0 +1,24 @@
+{
+  "name": "address-book-vue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "json-server --watch db.json --port 8080",
+    "start": "nuxt",
+    "dev": "concurrently \"npm run server\" \"npm run start\"",
+    "build": "nuxt build",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "nuxt": "^2.13.0",
+    "vee-validate": "^3.3.7"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "json-server": "^0.16.1"
+  }
+}
